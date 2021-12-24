@@ -2,7 +2,7 @@
 <h1 align="center">
  🎲 Trivia Game App tutorial
 </h1>
-Source code for the Trivia Game app built in the <a href="">YouTube tutorial</a>
+Source code for the Trivia Game app built in the <a href="https://youtu.be/b55npVkqa5U">YouTube tutorial</a>
 
 Access the three-part written content here:
 - [To-Do app Part 1](https://designcode.io/quick-apps-swiftui-trivia-app-1)
